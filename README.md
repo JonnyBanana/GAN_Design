@@ -1,3 +1,3 @@
 # GAN_Design
-Official Repository of GAN Design  
+<b>Official Repository of GAN Design </b>
    🌍🌍🌍 Land of NFT 🌍🌍🌍
