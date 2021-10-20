@@ -3,4 +3,4 @@
 </BR>
 
 <h2>Official Repository of GAN Design </BR></h2>
-&nbsp;&nbsp;&nbsp;🌍🌍🌍 <b>Land of NFT</b> 🌍🌍🌍
+🌍🌍🌍 <b> &nbsp;&nbsp;&nbsp; Land of NFT</b> 🌍🌍🌍
