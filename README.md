@@ -11,5 +11,5 @@
 
 </BR>
 
-<h2>Born from the symbiosis between man and machine</h2>
+<h2>Born from the Symbiosis between Man and Machine</h2>
 
