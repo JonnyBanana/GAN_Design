@@ -7,3 +7,7 @@
 
 </BR>
 
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/GAN_Design/main/IMG/LOGO.png)
+
+</BR>
+
