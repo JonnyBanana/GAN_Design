@@ -1,3 +1,6 @@
 # GAN_Design
-<b>Official Repository of GAN Design </b></BR>
-&nbsp;&nbsp;&nbsp;🌍🌍🌍 Land of NFT 🌍🌍🌍
+
+</BR>
+
+<h2>Official Repository of GAN Design </BR></h2>
+&nbsp;&nbsp;&nbsp;🌍🌍🌍 <b>Land of NFT</b> 🌍🌍🌍
