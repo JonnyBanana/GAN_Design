@@ -1,5 +1,5 @@
-&nbsp;<h2>Official Repository of GAN Design </BR></h2>
-&nbsp;<h3>🌍🌍🌍 Land of NFT 🌍🌍🌍</h3> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h2>Official Repository of GAN Design </BR></h2>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h3>🌍🌍🌍 Land of NFT 🌍🌍🌍</h3> 
 
 </BR>
 
